@@ -1,0 +1,1 @@
+C:\Users\DESKTOP\source\repos\MiAppCrud\MiAppCrud\MiAppCrud.csproj;x64
